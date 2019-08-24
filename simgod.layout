@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Run" />
+	<File name="pop.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="171" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="35" />
+			<Collapse line="45" />
+			<Collapse line="54" />
+		</Folding>
+	</File>
+	<File name="pop.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="194" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="definitions.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="279" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="sound.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="90" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="8" />
+			<Collapse line="17" />
+			<Collapse line="26" />
+			<Collapse line="44" />
+			<Collapse line="54" />
+			<Collapse line="61" />
+			<Collapse line="70" />
+			<Collapse line="90" />
+			<Collapse line="103" />
+			<Collapse line="112" />
+			<Collapse line="137" />
+			<Collapse line="140" />
+			<Collapse line="145" />
+			<Collapse line="151" />
+			<Collapse line="158" />
+			<Collapse line="174" />
+			<Collapse line="188" />
+			<Collapse line="195" />
+			<Collapse line="202" />
+			<Collapse line="215" />
+			<Collapse line="228" />
+			<Collapse line="230" />
+			<Collapse line="240" />
+			<Collapse line="260" />
+			<Collapse line="279" />
+			<Collapse line="291" />
+			<Collapse line="322" />
+			<Collapse line="330" />
+			<Collapse line="335" />
+			<Collapse line="341" />
+			<Collapse line="355" />
+			<Collapse line="362" />
+			<Collapse line="369" />
+			<Collapse line="382" />
+			<Collapse line="393" />
+			<Collapse line="395" />
+			<Collapse line="404" />
+			<Collapse line="426" />
+			<Collapse line="446" />
+			<Collapse line="451" />
+			<Collapse line="467" />
+			<Collapse line="597" />
+			<Collapse line="614" />
+			<Collapse line="622" />
+			<Collapse line="626" />
+			<Collapse line="633" />
+			<Collapse line="660" />
+			<Collapse line="670" />
+			<Collapse line="675" />
+			<Collapse line="683" />
+			<Collapse line="690" />
+			<Collapse line="692" />
+			<Collapse line="696" />
+			<Collapse line="702" />
+			<Collapse line="708" />
+			<Collapse line="737" />
+			<Collapse line="749" />
+			<Collapse line="752" />
+			<Collapse line="758" />
+			<Collapse line="767" />
+			<Collapse line="790" />
+			<Collapse line="796" />
+			<Collapse line="805" />
+			<Collapse line="823" />
+			<Collapse line="836" />
+			<Collapse line="841" />
+			<Collapse line="846" />
+			<Collapse line="851" />
+			<Collapse line="855" />
+			<Collapse line="864" />
+			<Collapse line="870" />
+			<Collapse line="876" />
+			<Collapse line="883" />
+			<Collapse line="893" />
+			<Collapse line="904" />
+			<Collapse line="913" />
+			<Collapse line="916" />
+			<Collapse line="918" />
+			<Collapse line="925" />
+			<Collapse line="927" />
+			<Collapse line="934" />
+			<Collapse line="940" />
+		</Folding>
+	</File>
+	<File name="house.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="273" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="house.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="437" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="sound_list.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="212" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="game.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="468" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="game.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="269" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="1104" />
+			<Collapse line="1106" />
+			<Collapse line="1110" />
+			<Collapse line="1660" />
+			<Collapse line="2009" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="812" topLine="18" />
+		</Cursor>
+		<Folding>
+			<Collapse line="74" />
+			<Collapse line="91" />
+			<Collapse line="98" />
+			<Collapse line="100" />
+			<Collapse line="102" />
+			<Collapse line="106" />
+			<Collapse line="112" />
+			<Collapse line="116" />
+			<Collapse line="122" />
+			<Collapse line="148" />
+			<Collapse line="155" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

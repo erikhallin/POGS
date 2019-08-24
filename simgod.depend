@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1556493689 source:d:\cpp\simgod\simgod - new\game.cpp
+	"game.h"
+	"definitions.h"
+
+1556491088 d:\cpp\simgod\simgod - new\game.h
+	<iostream>
+	<SOIL/SOIL.h>
+	<gl/gl.h>
+	<vector>
+	<string>
+	<ctime>
+	<stdlib.h>
+	<sstream>
+	<fstream>
+	"definitions.h"
+	"sound.h"
+	"house.h"
+	"pop.h"
+
+1556460408 d:\cpp\simgod\simgod - new\definitions.h
+
+1437303484 d:\cpp\simgod\simgod - new\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+	<vorbis/vorbisfile.h>
+
+1556494557 d:\cpp\simgod\simgod - new\sound_list.h
+
+1556487559 source:d:\cpp\simgod\simgod - new\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<gl/gl.h>
+	<fcntl.h>
+	"game.h"
+	"definitions.h"
+	"resource.h"
+
+1437306172 source:d:\cpp\simgod\simgod - new\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1524390843 d:\cpp\simgod\simgod - new\resource.h
+
+1524390843 source:d:\cpp\simgod\simgod - new\resource.rc
+	"resource.h"
+
+1556460823 d:\cpp\simgod\simgod - new\house.h
+	"definitions.h"
+	<iostream>
+	<stdlib.h>
+	<gl/gl.h>
+	<cmath>
+
+1556462708 source:d:\cpp\simgod\simgod - new\house.cpp
+	"house.h"
+
+1556468411 source:d:\cpp\simgod\simgod - new\pop.cpp
+	"pop.h"
+
+1556454492 d:\cpp\simgod\simgod - new\pop.h
+	"definitions.h"
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<gl/gl.h>
+
